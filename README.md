@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My stats on GitHub](https://github-readme-stats.vercel.app/api?username=LeonelArianContreras&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/LeonelArianContreras?tab=repositories)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-&nbsp;&nbsp;
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelArianContreras&layout=compact&langs_count=6&theme=blue-green)](https://github.com/LeonelArianContreras)
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?style=for-the-badge&logo=haskell&logoColor=white) ![Prolog](https://img.shields.io/badge/Prolog-%23E61B23.svg?style=for-the-badge&logo=prolog&logoColor=white)
+
+## 📬 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoariancontreras@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%2372b7f2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_leocontreras_)
