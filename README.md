@@ -1,24 +1,17 @@
-## Hi there 👋
+## Hi! I´'m Leo 👋
+
+- 👨‍💻 I'm in my third year of System's Engineering at UTN FRBA where I have worked as a teaching assistant in Business Processes and Systems.
+- 📚 I love learning foreign languages, currently improving my skills in English (preparing C1 exam) and Italian.
 
 <!--
 **LeonelArianContreras/LeonelArianContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VatanAgnihotri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatanAgnihotri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LeonelArianContreras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeonelArianContreras&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelArianContreras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 💻 Tech Stack:
