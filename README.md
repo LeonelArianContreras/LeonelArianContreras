@@ -1,11 +1,9 @@
 ## Hi! I´m Leo 👋
+<img src="narutochibi.gif" width="150" align="right">
 
 - 👨‍💻 I'm in my third year of System's Engineering at UTN FRBA where I have worked as a teaching assistant in Business Processes and Systems.
+  
 - 📚 I love learning foreign languages, currently improving my skills in English (preparing C1 exam) and Italian.
-
-<!--
-**LeonelArianContreras/LeonelArianContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeonelArianContreras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
